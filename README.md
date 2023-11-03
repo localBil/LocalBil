@@ -57,13 +57,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LocalBil&theme=onedark&hide_border=true" alt="GitHub Streak"/>
+  <img width=390 src="https://git.io/streak-stats><img src="https://streak-stats.demolab.com?user=LocalBil&theme=onedark&hide_border=true" alt="GitHub Streak"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=LocalBil&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <br/>
  
 </div>
-
-<br/><br/>
+<br/>
+<br/><img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true">
 <hr/>
 
 <h3 align="center">
